@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+Hello, I am Ron.  First and foremost I am a husband and father, my greatest achievement.  From a professional standpoint, I like to consider myself an expert generalist with technology.  I know a lot about a lot.  I have blessed in my career that I have worked for some really good people in my journey, and even had the opportunity to run my own business and help start up a couple of businesses.  
 
-You can use the [editor on GitHub](https://github.com/tikicoder/tikicoder/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My blog can be found
+[3 Mystic Apes LLC](https://www.threemysticapes.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Background
 
-### Markdown
+As I mentioned I helped start 2 companies.  I have worked for 3 different hosting companies, working on the phones for 2 of them and being a Sr .NET developer for one of them.  While working at one of them I managed to move up off the phones.  I had access to over 700 Linux servers and over 200 Windows servers.  I helped manage professional services, the office of the president emails, I wrote a script that would fix an issue with PHP applications to help them migrate from MySQL 4.x to 5.x, and among other things a low-end sysadmin.  I was the person that they would say this customer needs this done, and I would find a way to do it.  It was a fun job I got to dabble in a lot of things.  I got to be the SR/Lead developer for a local web development company.  One of the best opportunities is when I got on as a .NET Developer for a digital consultancy (Nerdery).  I started as a developer worked hard and did a pivot.  I transitioned to the cloud and start a new path.  I look forward to seeing where I go from here.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tikicoder/tikicoder/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
